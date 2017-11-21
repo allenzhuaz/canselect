@@ -5,7 +5,7 @@ output:
 ---
 # **<span style="color:#00877B"> CST App User Manual </span>**
 
-![GitHub version](https://badge.fury.io/gh/allenzhuaz%2Fcanselect.svg) *(Novemeber 8, 2017)*
+![GitHub version](https://badge.fury.io/gh/allenzhuaz%2Fcanselect.svg) *(Novemeber 21, 2017)*
 
 ### <span style="color:#007265"> About </span>
 
